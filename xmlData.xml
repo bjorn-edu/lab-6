@@ -1,6 +1,3 @@
-// xmlData.js
-
-const xmlData = `
 <Catalog>
     <Product ProductID="202">
         <Name>Jackhammer</Name>
@@ -58,6 +55,4 @@ const xmlData = `
         <Description>High-powered concrete saw for cutting through reinforced concrete.</Description>
         <ImageURL>https://imgur.com/8kP8y6f.jpg</ImageURL>
     </Product>
-</Catalog>`;
-
-module.exports = xmlData;
+</Catalog>
