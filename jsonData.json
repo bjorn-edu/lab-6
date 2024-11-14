@@ -1,67 +1,67 @@
-    "Catalog": {
-        "Products": [
-            {
-                "ProductID": "202",
-                "Name": "Jackhammer",
-                "Category": "Construction Tools",
-                "Price": 499.99,
-                "Stock": 15,
-                "Description": "An electric jackhammer ideal for breaking concrete and asphalt.",
-                "ImageURL": "https://imgur.com/pqWjgEH.jpg"
-            },
-            {
-                "ProductID": "203",
-                "Name": "Scaffolding Set",
-                "Category": "Construction Equipment",
-                "Price": 800.00,
-                "Stock": 20,
-                "Description": "A set of high-quality scaffolding ideal for safe construction access.",
-                "ImageURL": "https://imgur.com/uK5JUBc.jpg"
-            },
-            {
-                "ProductID": "204",
-                "Name": "Hard Hat",
-                "Category": "Safety Gear",
-                "Price": 25.99,
-                "Stock": 50,
-                "Description": "A durable hard hat with adjustable fit for maximum safety on-site.",
-                "ImageURL": "https://imgur.com/wdY9Tcv.jpg"
-            },
-            {
-                "ProductID": "205",
-                "Name": "Safety Gloves",
-                "Category": "Safety Gear",
-                "Price": 15.99,
-                "Stock": 100,
-                "Description": "Heavy-duty gloves to protect hands from rough surfaces and tools.",
-                "ImageURL": "https://imgur.com/vzYmTWU.jpg"
-            },
-            {
-                "ProductID": "206",
-                "Name": "Steel-Toe Boots",
-                "Category": "Safety Gear",
-                "Price": 75.00,
-                "Stock": 40,
-                "Description": "Protective steel-toe boots for construction environments.",
-                "ImageURL": "https://imgur.com/d5pwoJU.jpg"
-            },
-            {
-                "ProductID": "207",
-                "Name": "Power Drill",
-                "Category": "Construction Tools",
-                "Price": 149.99,
-                "Stock": 25,
-                "Description": "A cordless power drill with multiple speed settings and attachments.",
-                "ImageURL": "https://imgur.com/dEulGrX.jpg"
-            },
-            {
-                "ProductID": "208",
-                "Name": "Concrete Saw",
-                "Category": "Construction Equipment",
-                "Price": 950.00,
-                "Stock": 5,
-                "Description": "High-powered concrete saw for cutting through reinforced concrete.",
-                "ImageURL": "https://imgur.com/8kP8y6f.jpg"
-            }
-        ]
-    }
+"Catalog": {
+    "Products": [
+        {
+            "ProductID": "202",
+            "Name": "Jackhammer",
+            "Category": "Construction Tools",
+            "Price": 499.99,
+            "Stock": 15,
+            "Description": "An electric jackhammer ideal for breaking concrete and asphalt.",
+            "ImageURL": "https://imgur.com/pqWjgEH.jpg"
+        },
+        {
+            "ProductID": "203",
+            "Name": "Scaffolding Set",
+            "Category": "Construction Equipment",
+            "Price": 800.00,
+            "Stock": 20,
+            "Description": "A set of high-quality scaffolding ideal for safe construction access.",
+            "ImageURL": "https://imgur.com/uK5JUBc.jpg"
+        },
+        {
+            "ProductID": "204",
+            "Name": "Hard Hat",
+            "Category": "Safety Gear",
+            "Price": 25.99,
+            "Stock": 50,
+            "Description": "A durable hard hat with adjustable fit for maximum safety on-site.",
+            "ImageURL": "https://imgur.com/wdY9Tcv.jpg"
+        },
+        {
+            "ProductID": "205",
+            "Name": "Safety Gloves",
+            "Category": "Safety Gear",
+            "Price": 15.99,
+            "Stock": 100,
+            "Description": "Heavy-duty gloves to protect hands from rough surfaces and tools.",
+            "ImageURL": "https://imgur.com/vzYmTWU.jpg"
+        },
+        {
+            "ProductID": "206",
+            "Name": "Steel-Toe Boots",
+            "Category": "Safety Gear",
+            "Price": 75.00,
+            "Stock": 40,
+            "Description": "Protective steel-toe boots for construction environments.",
+            "ImageURL": "https://imgur.com/d5pwoJU.jpg"
+        },
+        {
+            "ProductID": "207",
+            "Name": "Power Drill",
+            "Category": "Construction Tools",
+            "Price": 149.99,
+            "Stock": 25,
+            "Description": "A cordless power drill with multiple speed settings and attachments.",
+            "ImageURL": "https://imgur.com/dEulGrX.jpg"
+        },
+        {
+            "ProductID": "208",
+            "Name": "Concrete Saw",
+            "Category": "Construction Equipment",
+            "Price": 950.00,
+            "Stock": 5,
+            "Description": "High-powered concrete saw for cutting through reinforced concrete.",
+            "ImageURL": "https://imgur.com/8kP8y6f.jpg"
+        }
+    ]
+}
