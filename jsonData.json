@@ -1,6 +1,3 @@
-// jsonData.js
-
-const jsonData = {
     "Catalog": {
         "Products": [
             {
@@ -68,6 +65,3 @@ const jsonData = {
             }
         ]
     }
-};
-
-module.exports = jsonData;
